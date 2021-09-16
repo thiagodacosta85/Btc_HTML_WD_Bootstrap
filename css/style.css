@@ -1,13 +1,25 @@
 .navbar {
-    background-color: #cbd3ea; /*Pantone 2706*/
-    padding: 10px;
+    background-color: #cbd3ea;
+    /*Pantone 2706*/
+    padding         : 10px;
 }
 
-.quemsomos {
-    background-color: #3C57A1; /*Pantone 273*/
+.sobreNos {
+    background-color: #3C57A1;
+    /*Pantone 273*/
+    color           : #cbd3ea;
+    padding         : 10px;
 }
 
-p {
-    color:#cbd3ea;
-    padding: 10px;
+#parceiros, #servicos {
+    color : #3C57A1;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+footer{
+    background-color: #3C57A1;
+    color           : #cbd3ea;
+    width: 100%;
+    padding: 5px;
 }
